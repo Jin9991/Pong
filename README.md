@@ -1,2 +1,3 @@
 # Pong
-This is a Pong game I follow Youtube video make. 
+I made this Pong game follow Youtube video make. 
+https://www.youtube.com/watch?v=PeY6lXPrPaA&t=15s
